@@ -11,5 +11,7 @@ react-i18next
 query-string
 moment
 react-responsive
--------
-4h min
+
+---
+
+10h min
